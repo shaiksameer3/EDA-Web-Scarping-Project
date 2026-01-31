@@ -1,0 +1,418 @@
+,Brand Name,Gender,MRP,Selling Price,Discount Percent,Rating,Discount Amount,Price_Category,Rating_Category,Usage_Type
+0,Boldfit,Men,1599,1499,56,3.8,100,Low-Mid,Average,Casual
+1,Boldfit,Men,1599,1199,56,3.8,400,Low-Mid,Average,Casual
+2,Campus,Men,1499,999,58,4.2,500,Budget,Good,Unknown
+3,Boldfit,Men,999,1199,58,3.7,-200,Low-Mid,Average,Casual
+4,Campus,Men,3499,699,38,3.8,2800,Budget,Average,Unknown
+5,ASIAN,Men,3499,631,38,4.0,2868,Budget,Average,Casual
+6,SPARX,Men,2799,617,70,4.1,2182,Budget,Good,Unknown
+7,Bacca Bucci,Men,2499,1304,70,4.1,1195,Low-Mid,Good,Casual
+8,Boldfit,Men,2499,1199,70,4.1,1300,Low-Mid,Good,Casual
+9,Cruiser,Men,2499,899,70,4.1,1600,Budget,Good,Unknown
+10,SPARX,Men,749,1608,63,4.1,-859,Low-Mid,Good,Casual
+11,Campus,Men,2799,1199,63,4.1,1600,Low-Mid,Good,Casual
+12,SPARX,Men,849,1149,57,4.1,-300,Low-Mid,Good,Casual
+13,ASIAN,Men,1499,1199,57,4.3,300,Low-Mid,Good,Unknown
+14,Skechers,Women,6499,636,54,4.2,5863,Budget,Good,Casual
+15,PUMA,Unisex,4499,849,54,3.7,3650,Budget,Average,Unknown
+16,Phil Alden Robinson,Unknown,1499,759,15,4.4,740,Budget,Good,Casual
+17,ASIAN,Men,3099,2624,15,4.0,475,Mid,Average,Casual
+18,Campus,Men,2899,553,70,4.6,2346,Budget,Excellent,Unknown
+19,Campus,Men,7999,1568,70,3.8,6431,Low-Mid,Average,Unknown
+20,ASICS,Men,2599,99,35,4.3,2500,Budget,Good,Unknown
+21,Campus,Men,2799,650,35,4.3,2149,Budget,Good,Casual
+22,Campus,Men,1499,849,49,3.9,650,Budget,Average,Casual
+23,Centrino,Men,4599,959,49,4.1,3640,Budget,Good,Unknown
+24,Centrino,Men,9999,5131,60,4.4,4868,Premium,Good,Unknown
+25,Cruiser,Men,3999,959,60,3.9,3040,Budget,Average,Casual
+26,Cruiser,Men,1799,999,65,3.9,800,Budget,Average,Casual
+27,ASIAN,Men,2199,499,65,4.2,1700,Budget,Good,Casual
+28,U.S. Polo Assn.,Men,1999,749,57,4.4,1250,Budget,Good,Unknown
+29,new balance,Unisex,3699,649,57,4.0,3050,Budget,Average,Casual
+30,U.S. Polo Assn.,Unknown,3499,1295,73,4.3,2204,Low-Mid,Good,Unknown
+31,Campus,Men,3999,1999,73,3.9,2000,Low-Mid,Average,Unknown
+32,SPARX,Men,5999,2580,67,4.1,3419,Mid,Good,Unknown
+33,Campus,Men,3999,631,67,3.9,3368,Budget,Average,Casual
+34,Campus,Unknown,2699,5499,36,4.2,-2800,Premium,Good,Casual
+35,U.S. Polo Assn.,Men,1699,799,36,4.1,900,Budget,Good,Casual
+36,U.S. Polo Assn.,Unknown,1099,1092,63,4.1,7,Low-Mid,Good,Unknown
+37,PUMA,Men,1999,1399,63,4.3,600,Low-Mid,Good,Unknown
+38,U.S. Polo Assn.,Men,1499,1849,64,4.0,-350,Low-Mid,Average,Casual
+39,Campus,Men,3699,899,64,3.7,2800,Budget,Average,Unknown
+40,Bata,Men,4499,2244,44,4.3,2255,Mid,Good,Casual
+41,Bata,Men,2499,2269,44,3.9,230,Mid,Average,Casual
+42,Campus,Men,4999,1999,58,4.1,3000,Low-Mid,Good,Running
+43,ASIAN,Men,3799,1209,58,3.6,2590,Low-Mid,Average,Casual
+44,The Souled Store,Men,3999,1040,45,3.9,2959,Low-Mid,Average,Unknown
+45,PUMA,Unisex,2699,949,45,4.0,1750,Budget,Average,Casual
+46,Reebok,Men,4299,719,50,4.2,3580,Budget,Good,Running
+47,Lotto,Men,2999,641,50,3.9,2358,Budget,Average,Casual
+48,U.S. Polo Assn.,Unknown,1499,2339,56,4.1,-840,Mid,Good,Unknown
+49,PUMA,Men,3999,1718,56,4.1,2281,Low-Mid,Good,Unknown
+50,Campus,Men,3499,1239,50,3.8,2260,Low-Mid,Average,Casual
+51,Skechers,Men,1799,1749,50,4.0,50,Low-Mid,Average,Unknown
+52,PUMA,Men,5999,1979,55,4.4,4020,Low-Mid,Good,Casual
+53,ASIAN,Men,2999,1199,55,5.0,1800,Low-Mid,Excellent,Casual
+54,adidas,Men,2799,699,50,4.1,2100,Budget,Good,Casual
+55,The Souled Store,Men,2799,1500,50,3.8,1299,Low-Mid,Average,Casual
+56,Liberty,Men,3499,694,60,3.9,2805,Budget,Average,Unknown
+57,PUMA,Men,2799,1909,60,4.0,890,Low-Mid,Average,Unknown
+58,Campus,Men,3499,2379,44,4.1,1120,Mid,Good,Casual
+59,Cruiser,Men,3499,628,44,4.1,2871,Budget,Good,Unknown
+60,Campus,Men,2499,2064,62,4.1,435,Mid,Good,Unknown
+61,Bacca Bucci,Men,2199,1589,62,3.6,610,Low-Mid,Average,Unknown
+62,Cruiser,Men,2499,899,50,3.6,1600,Budget,Average,Unknown
+63,Boldfit,Men,5299,849,50,3.8,4450,Budget,Average,Casual
+64,Bacca Bucci,Men,999,849,55,3.9,150,Budget,Average,Unknown
+65,Campus,Men,2599,799,55,4.3,1800,Budget,Good,Casual
+66,adidas,Men,3499,849,39,3.9,2650,Budget,Average,Unknown
+67,SPARX,Men,3499,1199,39,4.0,2300,Low-Mid,Average,Casual
+68,Campus,Men,2799,1295,35,4.1,1504,Low-Mid,Good,Casual
+69,Bacca Bucci,Men,2799,1499,35,4.1,1300,Low-Mid,Good,Unknown
+70,Boldfit,Men,3799,1608,53,4.2,2191,Low-Mid,Good,Casual
+71,Campus,Men,3999,1199,53,4.2,2800,Low-Mid,Good,Unknown
+72,Campus,Men,3499,1608,57,4.2,1891,Low-Mid,Good,Unknown
+73,adidas,Men,4299,1199,57,4.1,3100,Low-Mid,Good,Casual
+74,Campus,Men,3699,2619,37,,1080,Mid,,Unknown
+75,Skechers,Men,3699,587,37,4.1,3112,Budget,Good,Casual
+76,U.S. Polo Assn.,Men,2899,999,62,,1900,Budget,,Casual
+77,U.S. Polo Assn.,Men,2199,1304,62,4.4,895,Low-Mid,Good,Casual
+78,Campus,Men,1999,1199,50,4.2,800,Low-Mid,Good,Casual
+79,Campus,Men,1299,999,50,3.9,300,Budget,Average,Unknown
+80,Campus,Unknown,2099,1608,65,4.0,491,Low-Mid,Average,Unknown
+81,PUMA,Unknown,3799,1199,65,4.1,2600,Low-Mid,Good,Casual
+82,SPARX,Men,2199,1149,48,3.9,1050,Low-Mid,Average,Casual
+83,Neeman's,Women,1799,2150,48,4.1,-351,Mid,Good,Casual
+84,U.S. Polo Assn.,Women,2499,947,70,4.2,1552,Budget,Good,Casual
+85,Campus,Unisex,2799,1789,70,4.4,1010,Low-Mid,Good,Running
+86,ASIAN,Men,3099,2204,74,4.3,895,Mid,Good,Unknown
+87,U.S. Polo Assn.,Men,1499,1399,74,4.5,100,Low-Mid,Good,Casual
+88,U.S. Polo Assn.,Men,4799,1849,53,4.1,2950,Low-Mid,Good,Casual
+89,new balance,Men,3799,1399,53,3.7,2400,Low-Mid,Average,Unknown
+90,PUMA,Men,6499,799,50,3.9,5700,Budget,Average,Casual
+91,Reebok,Men,7499,919,50,3.5,6580,Budget,Average,Casual
+92,Campus,Men,4599,6999,54,4.0,-2400,Premium,Average,Casual
+93,SPARX,Men,2599,773,54,3.5,1826,Budget,Average,Casual
+94,Campus,Men,1799,949,52,4.4,850,Budget,Good,Casual
+95,Lotto,Unknown,4499,1899,52,4.2,2600,Low-Mid,Good,Unknown
+96,PUMA,Unknown,5499,1389,32,3.7,4110,Low-Mid,Average,Casual
+97,Bata,Men,1499,743,32,4.0,756,Budget,Average,Unknown
+98,new balance,Unisex,7499,2399,65,4.1,5100,Mid,Good,Casual
+99,The Souled Store,Men,2899,2132,65,2.7,767,Mid,Poor,Casual
+100,Skechers,Women,5999,3708,66,4.1,2291,Upper-Mid,Good,Casual
+101,U.S. Polo Assn.,Women,4799,2989,66,4.1,1810,Mid,Good,Casual
+102,PUMA,Women,5499,2233,47,4.4,3266,Mid,Good,Casual
+103,U.S. Polo Assn.,Men,3799,1229,47,4.0,2570,Low-Mid,Average,Casual
+104,U.S. Polo Assn.,Unisex,3999,1099,70,4.2,2900,Low-Mid,Good,Unknown
+105,Woodland,Men,3595,1574,70,3.9,2021,Low-Mid,Average,Casual
+106,PUMA,Men,6999,1999,70,4.1,5000,Low-Mid,Good,Unknown
+107,PUMA,Men,6499,1004,70,4.4,5495,Low-Mid,Good,Casual
+108,U.S. Polo Assn.,Men,3699,3759,57,4.0,-60,Upper-Mid,Average,Unknown
+109,U.S. Polo Assn.,Unknown,3799,2349,57,4.1,1450,Mid,Good,Casual
+110,PUMA,Unisex,5999,3359,63,3.7,2640,Upper-Mid,Average,Casual
+111,new balance,Women,7499,2399,63,5.0,5100,Mid,Excellent,Casual
+112,U.S. Polo Assn.,Men,3799,2774,63,4.3,1025,Mid,Good,Unknown
+113,U.S. Polo Assn.,Men,3499,2624,63,5.0,875,Mid,Excellent,Casual
+114,PUMA,Unisex,5499,2087,80,3.9,3412,Mid,Average,Unknown
+115,PUMA,Unisex,4999,2147,80,3.5,2852,Mid,Average,Unknown
+116,Lotto,Women,4999,2494,66,3.4,2505,Mid,Average,Unknown
+117,Bacca Bucci,Men,2499,2730,66,4.0,-231,Mid,Average,Casual
+118,Boldfit,Unisex,2799,2405,74,4.5,394,Mid,Good,Unknown
+119,Campus,Men,2499,1982,74,4.2,517,Low-Mid,Good,Casual
+120,Bacca Bucci,Women,3499,2880,51,4.7,619,Mid,Excellent,Casual
+121,Cruiser,Women,3499,4102,51,4.0,-603,Upper-Mid,Average,Casual
+122,Centrino,Unisex,3499,2432,41,4.3,1067,Mid,Good,Casual
+123,Centrino,Women,2799,1749,41,4.6,1050,Low-Mid,Excellent,Casual
+124,Campus,Women,2799,2526,65,4.0,273,Mid,Average,Casual
+125,Bata,Men,3499,2386,65,4.5,1113,Mid,Good,Casual
+126,Woodland,Men,3499,1749,70,3.4,1750,Low-Mid,Average,Casual
+127,Bacca Bucci,Men,2499,1304,70,4.1,1195,Low-Mid,Good,Casual
+128,Campus,Men,2499,1199,70,3.6,1300,Low-Mid,Average,Casual
+129,Campus,Men,2499,999,70,3.9,1500,Budget,Average,Casual
+130,Campus,Men,2499,1899,63,4.0,600,Low-Mid,Average,Casual
+131,U.S. Polo Assn.,Men,1499,1899,63,4.1,-400,Low-Mid,Good,Unknown
+132,Skechers,Men,3995,1295,57,4.1,2700,Low-Mid,Good,Casual
+133,Reebok,Men,3499,899,57,3.8,2600,Budget,Average,Casual
+134,Campus,Men,3499,499,74,3.8,3000,Budget,Average,Casual
+135,U.S. Polo Assn.,Men,2799,499,74,4.4,2300,Budget,Good,Casual
+136,ASIAN,Women,2799,1004,55,4.0,1795,Low-Mid,Average,Unknown
+137,U.S. Polo Assn.,Men,2199,1999,55,4.0,200,Low-Mid,Average,Casual
+138,PUMA,Men,3799,2774,73,4.1,1025,Mid,Good,Casual
+139,adidas,Men,5999,1304,73,4.3,4695,Low-Mid,Good,Unknown
+140,SPARX,Men,4299,849,49,3.8,3450,Budget,Average,Unknown
+141,Woodland,Men,2299,999,49,3.8,1300,Budget,Average,Unknown
+142,Red Chief,Men,3799,1899,62,3.8,1900,Low-Mid,Average,Unknown
+143,Centrino,Women,1499,1899,62,4.5,-400,Low-Mid,Good,Casual
+144,Centrino,Men,4799,1899,50,4.4,2900,Low-Mid,Good,Unknown
+145,Cruiser,Men,3999,3359,50,4.6,640,Upper-Mid,Excellent,Casual
+146,Cruiser,Women,5499,1259,52,3.9,4240,Low-Mid,Average,Casual
+147,The Souled Store,Men,1049,1186,52,4.3,-137,Low-Mid,Good,Casual
+148,U.S. Polo Assn.,Men,3295,899,64,4.1,2396,Budget,Good,Casual
+149,PUMA,Unknown,5099,694,64,3.8,4405,Budget,Average,Unknown
+150,new balance,Men,2199,1982,54,4.0,217,Low-Mid,Average,Unknown
+151,new balance,Unisex,2499,2399,54,5.0,100,Mid,Excellent,Unknown
+152,U.S. Polo Assn.,Women,2499,1789,40,3.7,710,Low-Mid,Average,Casual
+153,PUMA,Men,2499,849,40,4.0,1650,Budget,Average,Casual
+154,PUMA,Men,4699,2624,55,5.0,2075,Mid,Excellent,Casual
+155,Woodland,Men,3699,2032,55,4.2,1667,Mid,Good,Casual
+156,PUMA,Men,6999,1682,50,3.9,5317,Low-Mid,Average,Unknown
+157,PUMA,Men,5499,3369,50,3.9,2130,Upper-Mid,Average,Unknown
+158,U.S. Polo Assn.,Men,5499,749,66,3.7,4750,Budget,Average,Casual
+159,PUMA,Men,3699,849,66,4.4,2850,Budget,Good,Casual
+160,U.S. Polo Assn.,Men,5499,849,56,3.5,4650,Budget,Average,Casual
+161,new balance,Unisex,7999,799,56,3.8,7200,Budget,Average,Casual
+162,PUMA,Men,3595,1849,66,3.6,1746,Low-Mid,Average,Casual
+163,Campus,Unisex,6499,2531,66,4.0,3968,Mid,Average,Casual
+164,Reebok,Women,7999,2494,64,3.6,5505,Mid,Average,Casual
+165,U.S. Polo Assn.,Unisex,3799,2526,64,5.0,1273,Mid,Excellent,Casual
+166,PUMA,Unisex,5999,2405,55,3.9,3594,Mid,Average,Unknown
+167,U.S. Polo Assn.,Men,3499,3200,55,3.4,299,Upper-Mid,Average,Casual
+168,new balance,Unisex,7499,3089,50,4.4,4410,Upper-Mid,Good,Casual
+169,PUMA,Men,6999,2730,50,4.0,4269,Mid,Average,Casual
+170,PUMA,Women,1599,2147,50,4.2,-548,Mid,Good,Unknown
+171,U.S. Polo Assn.,Unisex,3999,3440,50,4.3,559,Upper-Mid,Good,Casual
+172,Lotto,Women,3799,2432,44,4.8,1367,Mid,Excellent,Casual
+173,PUMA,Men,9999,2349,44,4.7,7650,Mid,Excellent,Casual
+174,Reebok,Unisex,3799,2880,43,5.0,919,Mid,Excellent,Casual
+175,U.S. Polo Assn.,Women,3499,4102,43,4.0,-603,Upper-Mid,Average,Casual
+176,PUMA,Men,7499,3684,60,4.3,3815,Upper-Mid,Good,Casual
+177,U.S. Polo Assn.,Women,3799,1749,60,4.5,2050,Low-Mid,Good,Casual
+178,Skechers,Unisex,4999,1420,51,3.7,3579,Low-Mid,Average,Casual
+179,Campus,Women,4999,999,51,5.0,4000,Budget,Excellent,Casual
+180,Cruiser,Women,5499,3419,53,3.3,2080,Upper-Mid,Average,Casual
+181,Boldfit,Men,5999,7498,53,4.5,-1499,Premium,Good,Casual
+182,Campus,Women,3499,2621,39,5.0,878,Mid,Excellent,Casual
+183,Bacca Bucci,Women,5999,3600,39,4.0,2399,Upper-Mid,Average,Casual
+184,Boldfit,Women,3799,2386,65,4.6,1413,Mid,Excellent,Unknown
+185,Campus,Unisex,5999,1899,65,2.6,4100,Low-Mid,Poor,Casual
+186,Bacca Bucci,Men,1799,1664,64,4.6,135,Low-Mid,Excellent,Casual
+187,Cruiser,Women,2499,1749,64,4.5,750,Low-Mid,Good,Casual
+188,Cruiser,Women,2799,2526,33,5.0,273,Mid,Excellent,Casual
+189,Centrino,Women,2799,2399,33,4.0,400,Mid,Average,Casual
+190,PUMA,Women,3499,2275,50,4.1,1224,Mid,Good,Unknown
+191,Woodland,Men,3499,2814,50,4.1,685,Mid,Good,Casual
+192,The Souled Store,Men,2799,2621,19,4.1,178,Mid,Good,Casual
+193,Bacca Bucci,Men,2699,2575,19,3.8,124,Mid,Average,Casual
+194,Boldfit,Men,2799,849,44,3.4,1950,Budget,Average,Casual
+195,Campus,Men,3499,1199,44,3.3,2300,Low-Mid,Average,Casual
+196,U.S. Polo Assn.,Men,2499,649,50,3.4,1850,Budget,Average,Unknown
+197,new balance,Men,2499,999,50,3.7,1500,Budget,Average,Casual
+198,PUMA,Men,2499,1295,52,3.9,1204,Low-Mid,Average,Casual
+199,PUMA,Men,6499,1199,52,4.0,5300,Low-Mid,Average,Casual
+200,U.S. Polo Assn.,Men,3595,899,27,4.1,2696,Budget,Good,Casual
+201,PUMA,Men,4699,1608,27,4.1,3091,Low-Mid,Good,Casual
+202,Campus,Unisex,3499,1199,48,3.8,2300,Low-Mid,Average,Casual
+203,PUMA,Men,3499,1608,48,3.8,1891,Low-Mid,Average,Casual
+204,PUMA,Men,2799,1199,40,3.8,1600,Low-Mid,Average,Casual
+205,new balance,Men,2799,1295,40,4.1,1504,Low-Mid,Good,Casual
+206,new balance,Men,3799,899,64,4.1,2900,Budget,Good,Casual
+207,Reebok,Men,5499,849,64,4.1,4650,Budget,Good,Unknown
+208,PUMA,Women,7999,499,58,4.0,7500,Budget,Average,Casual
+209,Centrino,Unisex,5499,3369,58,3.6,2130,Upper-Mid,Average,Unknown
+210,Centrino,Unisex,3499,2494,35,3.6,1005,Mid,Average,Casual
+211,Centrino,Unisex,7999,2147,35,4.3,5852,Mid,Good,Unknown
+212,Cruiser,Women,2399,1304,48,4.4,1095,Low-Mid,Good,Unknown
+213,Woodland,Men,5999,1199,48,3.9,4800,Low-Mid,Average,Unknown
+214,Campus,Men,5499,999,52,4.2,4500,Budget,Good,Casual
+215,U.S. Polo Assn.,Unisex,12999,1364,52,4.2,11635,Low-Mid,Good,Unknown
+216,PUMA,Unisex,7499,1240,45,3.8,6259,Low-Mid,Average,Casual
+217,U.S. Polo Assn.,Men,3999,747,45,4.7,3252,Budget,Excellent,Casual
+218,PUMA,Men,8999,2526,36,5.0,6473,Mid,Excellent,Casual
+219,Campus,Men,2199,2432,36,4.3,-233,Mid,Good,Unknown
+220,U.S. Polo Assn.,Unisex,2499,3760,50,3.6,-1261,Upper-Mid,Average,Unknown
+221,Boldfit,Men,2499,3089,50,3.8,-590,Upper-Mid,Average,Unknown
+222,PUMA,Men,2499,3440,54,3.6,-941,Upper-Mid,Average,Casual
+223,new balance,Men,2995,1749,54,3.5,1246,Low-Mid,Average,Casual
+224,PUMA,Men,2499,2880,65,3.8,-381,Mid,Average,Casual
+225,Lotto,Men,3799,798,65,4.3,3001,Budget,Good,Casual
+226,PUMA,Women,6999,2530,52,4.5,4469,Mid,Good,Casual
+227,PUMA,Women,3799,6976,52,4.8,-3177,Premium,Excellent,Casual
+228,new balance,Unisex,6499,4102,66,5.0,2397,Upper-Mid,Excellent,Casual
+229,U.S. Polo Assn.,Women,3799,1420,66,4.8,2379,Low-Mid,Excellent,Casual
+230,U.S. Polo Assn.,Unisex,1599,2349,57,4.0,-750,Mid,Average,Unknown
+231,The Souled Store,Women,3999,749,57,5.0,3250,Budget,Excellent,Casual
+232,Reebok,Women,4999,649,66,5.0,4350,Budget,Excellent,Unknown
+233,PUMA,Women,7999,499,66,4.5,7500,Budget,Good,Casual
+234,Campus,Women,3499,849,76,4.2,2650,Budget,Good,Casual
+235,U.S. Polo Assn.,Men,4999,4489,76,3.7,510,Upper-Mid,Average,Casual
+236,Lotto,Women,4999,3419,70,4.0,1580,Upper-Mid,Average,Casual
+237,U.S. Polo Assn.,Women,9999,3684,70,4.0,6315,Upper-Mid,Average,Unknown
+238,PUMA,Women,7499,2621,70,4.5,4878,Mid,Good,Casual
+239,U.S. Polo Assn.,Unisex,4299,1429,70,3.3,2870,Low-Mid,Average,Casual
+240,PUMA,Men,3499,869,63,4.3,2630,Budget,Good,Casual
+241,PUMA,Women,3499,3419,63,4.0,80,Upper-Mid,Average,Unknown
+242,Skechers,Women,5999,1899,57,4.8,4100,Low-Mid,Excellent,Casual
+243,PUMA,Women,5499,1499,57,2.6,4000,Low-Mid,Poor,Unknown
+244,Skechers,Men,2999,999,63,4.6,2000,Budget,Excellent,Casual
+245,Campus,Unisex,3699,2386,63,4.4,1313,Mid,Good,Casual
+246,Cruiser,Women,3999,4000,64,2.5,-1,Upper-Mid,Poor,Casual
+247,Boldfit,Women,3799,1664,64,4.0,2135,Low-Mid,Average,Unknown
+248,Cruiser,Men,5999,1749,80,4.6,4250,Low-Mid,Excellent,Casual
+249,Bacca Bucci,Women,5999,7498,80,4.5,-1499,Premium,Good,Casual
+250,Campus,Women,3499,2244,80,5.0,1255,Mid,Excellent,Unknown
+251,Boldfit,Women,4299,3600,80,3.8,699,Upper-Mid,Average,Unknown
+252,Cruiser,Women,5999,2149,62,5.0,3850,Mid,Excellent,Casual
+253,Cruiser,Men,5499,1826,62,4.4,3673,Low-Mid,Good,Casual
+254,Bacca Bucci,Women,6499,2399,33,4.5,4100,Mid,Good,Unknown
+255,Centrino,Women,1799,2319,33,4.0,-520,Mid,Average,Casual
+256,Campus,Women,2499,2526,50,3.6,-27,Mid,Average,Casual
+257,U.S. Polo Assn.,Men,2799,1098,50,4.1,1701,Low-Mid,Good,Casual
+258,PUMA,Men,2499,1849,70,3.5,650,Low-Mid,Average,Unknown
+259,Campus,Men,3499,2621,70,4.0,878,Mid,Average,Casual
+260,PUMA,Men,3499,2814,70,4.1,685,Mid,Good,Casual
+261,Lotto,Men,2699,2275,70,4.5,424,Mid,Good,Casual
+262,Boldfit,Men,4499,2489,63,4.7,2010,Mid,Excellent,Running
+263,Bata Comfit,Men,2199,1534,63,3.4,665,Low-Mid,Average,Casual
+264,PUMA,Men,2199,2575,70,3.8,-376,Mid,Average,Unknown
+265,PUMA,Men,3799,2220,70,4.1,1579,Mid,Good,Casual
+266,Campus,Men,6999,3314,43,3.3,3685,Upper-Mid,Average,Casual
+267,PUMA,Men,3499,799,43,4.8,2700,Budget,Excellent,Casual
+268,PUMA,Women,3499,849,27,4.2,2650,Budget,Good,Casual
+269,Campus,Women,2799,849,27,5.0,1950,Budget,Excellent,Running
+270,PUMA,Unisex,2799,1199,44,4.0,1600,Low-Mid,Average,Casual
+271,Campus,Men,2499,1304,44,4.1,1195,Low-Mid,Good,Casual
+272,Centrino,Men,4999,899,72,4.1,4100,Budget,Good,Casual
+273,Centrino,Men,3999,1499,72,4.2,2500,Low-Mid,Good,Casual
+274,Cruiser,Women,4999,1899,61,4.2,3100,Low-Mid,Good,Casual
+275,Centrino,Women,6499,1899,61,4.2,4600,Low-Mid,Good,Casual
+276,SPARX,Women,1999,1199,48,4.1,800,Low-Mid,Good,Unknown
+277,new balance,Women,5999,1199,48,,4800,Low-Mid,,Casual
+278,PUMA,Unisex,1499,849,54,4.1,650,Budget,Good,Unknown
+279,PUMA,Men,3499,899,54,,2600,Budget,,Casual
+280,The Souled Store,Unisex,9999,1295,19,4.4,8704,Low-Mid,Good,Unknown
+281,PUMA,Men,1999,499,19,4.5,1500,Budget,Good,Casual
+282,U.S. Polo Assn.,Women,4999,1229,50,4.5,3770,Low-Mid,Good,Unknown
+283,new balance,Women,1599,1899,50,5.0,-300,Low-Mid,Excellent,Unknown
+284,U.S. Polo Assn.,Unisex,2499,759,55,4.0,1740,Budget,Average,Casual
+285,Reebok,Women,7499,1304,55,4.8,6195,Low-Mid,Excellent,Casual
+286,Reebok,Women,5499,1199,52,3.7,4300,Low-Mid,Average,Casual
+287,LENSBURY,Men,3499,849,52,4.2,2650,Budget,Good,Casual
+288,Lotto,Men,4299,1364,38,3.2,2935,Low-Mid,Average,Casual
+289,U.S. Polo Assn.,Men,7999,1240,38,3.7,6759,Low-Mid,Average,Unknown
+290,U.S. Polo Assn.,Men,3499,747,67,4.5,2752,Budget,Good,Unknown
+291,Campus,Men,5999,2386,67,4.0,3613,Mid,Average,Unknown
+292,U.S. Polo Assn.,Men,5999,869,66,4.0,5130,Budget,Average,Unknown
+293,U.S. Polo Assn.,Unisex,1999,1749,66,4.0,250,Low-Mid,Average,Casual
+294,PUMA,Unisex,3999,1499,74,3.6,2500,Low-Mid,Average,Unknown
+295,PUMA,Unisex,3799,3419,74,3.8,380,Upper-Mid,Average,Casual
+296,U.S. Polo Assn.,Women,3699,3400,66,3.5,299,Upper-Mid,Average,Unknown
+297,ASICS,Women,2999,1191,66,3.6,1808,Low-Mid,Average,Unknown
+298,Reebok,Women,3799,7498,66,4.0,-3699,Premium,Average,Unknown
+299,PUMA,Women,5999,779,66,3.3,5220,Budget,Average,Casual
+300,PUMA,Men,5999,1664,28,4.3,4335,Low-Mid,Good,Casual
+301,PUMA,Men,3499,2244,28,4.6,1255,Mid,Excellent,Unknown
+302,Skechers,Women,7999,899,50,4.8,7100,Budget,Excellent,Unknown
+303,Skechers,Men,2799,7999,50,4.8,-5200,Premium,Excellent,Casual
+304,PUMA,Men,4299,749,64,4.3,3550,Budget,Good,Unknown
+305,SPARX,Women,3999,649,64,4.3,3350,Budget,Good,Casual
+306,PUMA,Women,5499,849,54,4.0,4650,Budget,Average,Casual
+307,Skechers,Women,5999,499,54,2.6,5500,Budget,Poor,Casual
+308,Cruiser,Men,6499,3600,54,4.6,2899,Upper-Mid,Excellent,Casual
+309,Cruiser,Women,6999,999,54,5.0,6000,Budget,Excellent,Casual
+310,Campus,Women,2349,1267,35,4.0,1082,Low-Mid,Average,Casual
+311,Cruiser,Women,4499,6999,35,4.4,-2500,Premium,Good,Casual
+312,Boldfit,Women,6499,2526,44,2.5,3973,Mid,Poor,Casual
+313,Campus,Women,4499,2319,44,5.0,2180,Mid,Excellent,Unknown
+314,Bacca Bucci,Men,4499,2149,60,5.0,2350,Mid,Excellent,Casual
+315,Cruiser,Women,2699,4799,60,4.5,-2100,Upper-Mid,Good,Casual
+316,Centrino,Women,3499,1826,40,4.6,1673,Low-Mid,Excellent,Unknown
+317,Cruiser,Women,2499,2399,40,5.0,100,Mid,Excellent,Casual
+318,Centrino,Women,2499,2370,58,4.2,129,Mid,Good,Casual
+319,SPARX,Women,2499,699,58,3.8,1800,Budget,Average,Casual
+320,PUMA,Men,2499,1999,57,4.1,500,Low-Mid,Good,Unknown
+321,PUMA,Unisex,2499,1849,57,4.4,650,Low-Mid,Good,Running
+322,Bacca Bucci,Women,2349,2621,36,5.0,-272,Mid,Excellent,Casual
+323,Boldfit,Men,6999,2489,36,4.4,4510,Mid,Good,Casual
+324,Campus,Men,4499,2814,52,5.0,1685,Mid,Excellent,Casual
+325,PUMA,Men,3299,1098,52,4.4,2201,Low-Mid,Good,Unknown
+326,PUMA,Men,3299,1974,50,4.5,1325,Low-Mid,Good,Unknown
+327,Skechers,Men,3499,4299,50,3.5,-800,Upper-Mid,Average,Casual
+328,U.S. Polo Assn.,Men,2799,2275,45,3.6,524,Mid,Average,Casual
+329,PUMA,Men,6999,5399,45,4.0,1600,Premium,Average,Casual
+330,U.S. Polo Assn.,Men,4499,1316,47,4.2,3183,Low-Mid,Good,Casual
+331,PUMA,Men,6499,1534,47,4.0,4965,Low-Mid,Average,Casual
+332,LENSBURY,Men,3799,1199,38,5.0,2600,Low-Mid,Excellent,Running
+333,Bata,Men,6499,2575,38,4.1,3924,Mid,Good,Casual
+334,U.S. Polo Assn.,Men,3499,2220,64,3.8,1279,Mid,Average,Casual
+335,Reebok,Women,4499,3681,64,3.8,818,Upper-Mid,Average,Casual
+336,Lotto,Unisex,1999,3324,10,3.5,-1325,Upper-Mid,Average,Casual
+337,PUMA,Men,1799,1126,10,3.3,673,Low-Mid,Average,Casual
+338,Centrino,Men,3499,2104,25,3.8,1395,Mid,Average,Casual
+339,Cruiser,Men,2599,3314,25,3.8,-715,Upper-Mid,Average,Casual
+340,Centrino,Women,4999,849,52,5.0,4150,Budget,Excellent,Unknown
+341,Cruiser,Women,5999,849,52,4.4,5150,Budget,Good,Casual
+342,Skechers,Women,2199,799,52,4.0,1400,Budget,Average,Casual
+343,PUMA,Men,2499,849,52,4.1,1650,Budget,Good,Casual
+344,new balance,Women,2499,1499,31,4.1,1000,Low-Mid,Good,Casual
+345,ATHCO,Women,2499,899,31,3.8,1600,Budget,Average,Casual
+346,PUMA,Women,3999,1304,52,3.8,2695,Low-Mid,Average,Unknown
+347,Skechers,Women,5599,1608,52,3.8,3991,Low-Mid,Average,Casual
+348,Skechers,Men,10999,1199,50,4.1,9800,Low-Mid,Good,Casual
+349,Campus,Unknown,1699,849,50,,850,Budget,,Unknown
+350,Bacca Bucci,Women,4999,499,65,4.1,4500,Budget,Good,Unknown
+351,PUMA,Men,5999,899,65,,5100,Budget,,Unknown
+352,Bacca Bucci,Men,2999,649,54,4.4,2350,Budget,Good,Casual
+353,ASIAN,Men,2999,1199,54,5.0,1800,Low-Mid,Excellent,Casual
+354,SPARX,Men,5499,3324,60,4.5,2175,Upper-Mid,Good,Casual
+355,PUMA,Men,2499,3684,60,3.8,-1185,Upper-Mid,Average,Casual
+356,Skechers,Men,1499,1304,35,4.1,195,Low-Mid,Good,Casual
+357,Skechers,Men,3999,1199,35,5.0,2800,Low-Mid,Excellent,Casual
+358,PUMA,Men,1049,849,53,4.1,200,Budget,Good,Casual
+359,PUMA,Unisex,5999,1608,53,5.0,4391,Low-Mid,Excellent,Unknown
+360,Campus,Men,4999,1199,31,3.0,3800,Low-Mid,Poor,Unknown
+361,Bacca Bucci,Unisex,6999,1149,31,4.2,5850,Low-Mid,Good,Casual
+362,PUMA,Men,3999,2104,57,4.1,1895,Mid,Good,Casual
+363,Reebok,Unknown,6499,3314,57,4.3,3185,Upper-Mid,Good,Casual
+364,SPARX,Women,2899,2089,56,4.2,810,Mid,Good,Casual
+365,U.S. Polo Assn.,Men,3499,1982,56,3.6,1517,Low-Mid,Average,Casual
+366,Campus,Unisex,4299,3419,66,3.5,880,Upper-Mid,Average,Unknown
+367,adidas,Men,2599,1749,66,3.6,850,Low-Mid,Average,Unknown
+368,PUMA,Men,999,2110,57,3.4,-1111,Mid,Average,Unknown
+369,new balance,Men,4299,699,57,4.1,3600,Budget,Good,Unknown
+370,PUMA,Unisex,2299,1229,64,3.9,1070,Low-Mid,Average,Casual
+371,YOHO,Women,3999,1749,64,3.8,2250,Low-Mid,Average,Casual
+372,Bata,Women,3999,1281,70,4.0,2718,Low-Mid,Average,Casual
+373,Cruiser,Women,7499,1995,70,4.1,5504,Low-Mid,Good,Casual
+374,Cruiser,Men,4499,2239,70,5.0,2260,Mid,Excellent,Unknown
+375,Bacca Bucci,Men,3399,749,70,4.3,2650,Budget,Good,Casual
+376,Cruiser,Men,999,849,63,5.0,150,Budget,Excellent,Unknown
+377,Campus,Men,2499,499,63,4.1,2000,Budget,Good,Casual
+378,Boldfit,Men,2499,849,57,4.0,1650,Budget,Average,Casual
+379,Campus,Men,3499,2119,57,3.6,1380,Mid,Average,Casual
+380,Boldfit,Women,2499,2518,63,3.8,-19,Mid,Average,Casual
+381,Bacca Bucci,Women,1799,3409,63,4.3,-1610,Upper-Mid,Good,Unknown
+382,Cruiser,Women,3299,549,64,4.3,2750,Budget,Good,Running
+383,Cruiser,Women,3299,2098,64,4.1,1201,Mid,Good,Casual
+384,Centrino,Men,4499,2519,66,4.1,1980,Mid,Good,Casual
+385,U.S. Polo Assn.,Men,2699,1578,66,4.1,1121,Low-Mid,Good,Casual
+386,Campus,Men,3499,1199,80,5.0,2300,Low-Mid,Excellent,Casual
+387,adidas,Men,3499,1330,80,4.2,2169,Low-Mid,Good,Casual
+388,Bacca Bucci,Men,2499,1749,58,3.8,750,Low-Mid,Average,Casual
+389,Boldfit,Men,2499,1079,58,4.0,1420,Low-Mid,Average,Casual
+390,Campus,Men,2499,694,40,3.9,1805,Budget,Average,Unknown
+391,PUMA,Men,4299,660,40,4.0,3639,Budget,Average,Casual
+392,new balance,Men,2299,3000,28,4.3,-701,Mid,Good,Unknown
+393,PUMA,Men,3999,2555,28,4.6,1444,Mid,Excellent,Casual
+394,YOHO,Men,3299,3138,70,3.8,161,Upper-Mid,Average,Sports
+395,Bata,Men,3299,1589,70,4.1,1710,Low-Mid,Good,Unknown
+396,Cruiser,Men,3499,2574,70,2.4,925,Mid,Poor,Casual
+397,Theater,Men,2799,898,70,4.2,1901,Budget,Good,Running
+398,Campus,Men,3999,1381,63,3.9,2618,Low-Mid,Average,Casual
+399,PUMA,Men,7499,1199,63,4.0,6300,Low-Mid,Average,Unknown
+400,new balance,Women,4499,1221,57,3.7,3278,Low-Mid,Average,Casual
+401,SPARX,Women,3399,902,57,3.6,2497,Budget,Average,Casual
+402,Skechers,Women,999,2149,54,4.1,-1150,Mid,Good,Casual
+403,Campus,Men,2499,1099,54,4.2,1400,Low-Mid,Good,Running
+404,Centrino,Men,2990,1909,36,4.0,1081,Low-Mid,Average,Running
+405,Centrino,Men,1899,1299,36,4.0,600,Low-Mid,Average,Casual
+406,Cruiser,Women,4499,4764,53,5.0,-265,Upper-Mid,Excellent,Unknown
+407,Centrino,Men,5499,1755,53,4.1,3744,Low-Mid,Good,Casual
+408,Reebok,Men,1049,1119,44,4.7,-70,Low-Mid,Excellent,Casual
+409,Campus,Men,6999,642,44,4.1,6357,Budget,Good,Casual
+410,Cruiser,Men,1699,899,50,3.4,800,Budget,Average,Casual
+411,Cruiser,Men,2199,849,50,3.5,1350,Budget,Average,Casual
+412,Cruiser,Women,2499,1304,67,3.3,1195,Low-Mid,Average,Casual
+413,Campus,Men,2499,849,67,4.3,1650,Budget,Good,Casual
+414,Bacca Bucci,Women,2499,799,57,4.6,1700,Budget,Excellent,Casual
+415,Boldfit,Women,5299,1499,57,3.8,3800,Low-Mid,Average,Casual
+416,Campus,Men,2499,899,52,4.0,1600,Budget,Average,Unknown
