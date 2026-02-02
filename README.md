@@ -1,6 +1,6 @@
 **Sneaker Sales Analysis (Amazon Web Scraping Project)**
 
-This project focuses on analyzing sneaker sales data scraped from the Amazon website to understand pricing trends, brand performance, and discount patterns in the sneaker market.
++ This project focuses on analyzing sneaker sales data scraped from the Amazon website to understand pricing trends, brand performance, and discount patterns in the sneaker market.
 
 Using web scraping techniques, sneaker data such as product name, brand, price, ratings, and discounts were collected and cleaned for analysis.
 The insights help identify popular brands, affordable price ranges, and the effect of discounts on sneaker sales.
